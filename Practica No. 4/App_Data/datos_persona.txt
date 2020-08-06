@@ -1,0 +1,3 @@
+Nombre: Juan Esteban<br>cedula: 402-2324222-5<br>telefono: 829-403-2516<br>correo: e-gonzalez@outlook.com<hr>
+Nombre: Manual Sanchez<br>cedula: 093-2325679-0<br>telefono: 809-987-4555<br>correo: ejemplo@yahoo.com<hr>
+Nombre: Anacleto Mendez<br>cedula: 022-3333500-6<br>telefono: 829-333-6095<br>correo: el_meromero@hotmail.com<hr>
